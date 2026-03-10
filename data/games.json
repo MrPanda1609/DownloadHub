@@ -1,24 +1,5 @@
 [
   {
-    "id": "0fa3d41109392c37",
-    "name": "Adobe Photoshop 2025",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg",
-    "releaseDate": "",
-    "genres": [
-      "Design",
-      "Photo Editing"
-    ],
-    "source": "hadoantv.com",
-    "type": "software",
-    "parts": [],
-    "description": "",
-    "notepadUrl": "",
-    "autoSync": false,
-    "lastSync": null,
-    "syncStatus": null,
-    "createdAt": "2026-03-10T06:06:51.364Z"
-  },
-  {
     "id": "f31fd93e0908fd56",
     "name": "Hytale",
     "image": "https://cdn-media.sforum.vn/storage/app/media/Bookgrinder2/hytale-vs-minecraft-1.jpg",
