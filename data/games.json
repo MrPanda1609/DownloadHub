@@ -1,5 +1,21 @@
 [
   {
+    "id": "7a3b9dd06e6a2729",
+    "name": "Adobe Substance 3D Painter",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU0OxbKV0db1CTRmyFLAggUZvgHyaZFPYnUQ&s",
+    "releaseDate": "2026-03-10",
+    "genres": [],
+    "source": "hadoantv.com",
+    "type": "game",
+    "parts": [],
+    "description": "",
+    "notepadUrl": "https://hadoantvnotepad.com/note/t2n4U56fsdt7PjAwqC2Sp1rTmezhAxoqWwKl67wa",
+    "autoSync": true,
+    "lastSync": null,
+    "syncStatus": null,
+    "createdAt": "2026-03-10T19:17:24.634Z"
+  },
+  {
     "id": "daab4c1754dfbe99",
     "name": "Lossless Scaling",
     "image": "https://hadoantv.com/wp-content/uploads/2024/08/download-Lossless-Scaling-hadoan-tv-300x140.jpg",
