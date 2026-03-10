@@ -1,5 +1,20 @@
 [
   {
+    "id": "444bbc1c4e9dd6b4",
+    "name": "Palworld",
+    "image": "https://cdn-media.sforum.vn/storage/app/media/wp-content/uploads/2024/01/palworld-thumbnail.jpg",
+    "releaseDate": "2026-03-10",
+    "genres": [],
+    "source": "hadoantv.com",
+    "parts": [],
+    "description": "",
+    "notepadUrl": "https://hadoantvnotepad.com/note/xlwusLCkUT2QDlh0ZbyWJflY4dM43NUHKMFy4789",
+    "autoSync": true,
+    "lastSync": null,
+    "syncStatus": null,
+    "createdAt": "2026-03-10T05:34:32.293Z"
+  },
+  {
     "id": "25775bb7611ab743",
     "name": "Grounded 2",
     "image": "https://hadoantv.com/wp-content/uploads/2025/07/download-Grounded-2-hadoan-tv.jpg",
@@ -77,6 +92,6 @@
     "notepadUrl": "https://hadoantvnotepad.com/note/5Iozt2YiYWLBrPD1BIQMWsgJkcdgi4a2o3q7lp8Q",
     "autoSync": true,
     "syncStatus": "success",
-    "lastSync": "2026-03-10T04:48:23.718Z"
+    "lastSync": "2026-03-10T05:13:59.943Z"
   }
 ]
