@@ -7,12 +7,21 @@
     "genres": [],
     "source": "hadoantv.com",
     "type": "software",
-    "parts": [],
+    "parts": [
+      {
+        "name": "Google Drive",
+        "url": "https://www.filecrypt.cc/Container/5C8A2B03C6.html"
+      },
+      {
+        "name": "AkiraBox",
+        "url": "https://akirabox.com/obj3jbVPP3Dx/file"
+      }
+    ],
     "description": "",
     "notepadUrl": "https://hadoantvnotepad.com/note/xAXPG6rhUt7DuVo9NORRdemme7w6H0LVwbBPzfKr",
     "autoSync": false,
-    "lastSync": null,
-    "syncStatus": "error: No download links found in notepad",
+    "lastSync": "2026-03-10T06:19:11.655Z",
+    "syncStatus": "success",
     "createdAt": "2026-03-10T06:18:29.768Z"
   },
   {
