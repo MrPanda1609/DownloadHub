@@ -395,7 +395,6 @@ function renderAdminList() {
         ? `<img class="admin-game-thumb" src="${escHtml(g.image)}" alt="" onerror="this.style.display='none'">`
         : `<div class="admin-game-thumb" style="display:flex;align-items:center;justify-content:center;font-size:1.2rem;">${placeholder}</div>`
       }
-      }
       <div class="admin-game-info">
         <div class="name">${escHtml(g.name)}</div>
         <div class="meta">
