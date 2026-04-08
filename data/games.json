@@ -7,12 +7,25 @@
     "genres": [],
     "source": "hadoantv.com",
     "type": "game",
-    "parts": [],
+    "parts": [
+      {
+        "name": "Google Drive",
+        "url": "https://www.filecrypt.cc/Container/75EA8E2336.html"
+      },
+      {
+        "name": "AkiraBox",
+        "url": "https://akirabox.com/2WVGrD8e93kx/file"
+      },
+      {
+        "name": "Ranoz",
+        "url": "https://ranoz.gg/file/Y29PDaXF"
+      }
+    ],
     "description": "",
     "notepadUrl": "https://hadoantvnotepad.com/note/pJkct049TdOln3cSI7Tf0sB0KlPofuNabxincti3",
     "autoSync": false,
-    "lastSync": null,
-    "syncStatus": null,
+    "lastSync": "2026-04-08T12:44:43.991Z",
+    "syncStatus": "success",
     "createdAt": "2026-04-08T12:44:40.676Z"
   },
   {
